@@ -1,0 +1,11 @@
+print("Bem vindo ao somador de média!")
+nota1 = float(input("Digite a nota da avaliação! "))
+nota2 = float(input("Digite a nota da prova! "))
+
+premedia = nota1 + nota2
+media = premedia / 2
+
+if media >= 70:
+    print(f"Sua media é {media}")
+else:
+    print(f"Sua media é {media}")
