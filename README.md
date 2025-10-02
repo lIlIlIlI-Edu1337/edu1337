@@ -1,2 +1,2 @@
-Seja-bem vindo ao meu repositório!
-#edu102938475
+Olá, seja bem vindo ao meu repositório!
+#edu1337 - 2025
