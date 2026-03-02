@@ -1,7 +1,3 @@
-#######################
-# Gerador de Senhas
-# Edu N°8  1°E
-#######################
 
 import random
 import string
@@ -30,5 +26,3 @@ else:
 
 response = password_generator(len_pass = choice_user)
 print(f"Senha gerada:\n{response}")
-
-#######################
